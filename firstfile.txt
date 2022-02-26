@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 hello world, modified hello
 veera
 pandian
+=======
+hello world, modified hello veera
+>>>>>>> parent of e1f333f (veera3)
